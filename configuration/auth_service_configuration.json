@@ -1,0 +1,8 @@
+{
+  "development": {
+    "auth_service_url": "https://localhost:3000/"
+  },
+  "production": {
+    "auth_service_url": ""
+  }
+}

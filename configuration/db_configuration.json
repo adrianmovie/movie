@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "pass",
+    "database": "moviesDb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": null,
+    "password": null,
+    "database": null,
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
